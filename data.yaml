@@ -1,0 +1,9 @@
+
+path: ./data
+train: images/train
+val: images/val
+
+nc: 8  # number of classes
+names: ['person', 'rider', 'car', 'truck', 'bus', 'motorcycle', 'bicycle', 'traffic light']
+
+
